@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Simon Harms
 
-<!--
-**thesimonharms/thesimonharms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student, self-hosting enthusiast, and programmer with a deep love for *nix, low-level systems, and clean code. I’m currently studying Computer Programming and Analysis while building fun and meaningful tools from the terminal up.
 
-Here are some ideas to get you started:
+### 🔧 Projects I'm Working On
+- **`lmsg`** — A decentralized CLI messaging system inspired by answering machines, `mail` and IRC, written in Rust.
+- **Emacs Customization** — Crafting a snappy, minimalist Emacs setup with `hydra`, `org-mode`, and no evil-mode.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech I Enjoy
+`Rust` • `C#` • `Python` • `Haskell` • `C++` • `Emacs` • `Unix` • `Git` • `Docker`
+
+### 🌱 Learning Goals
+I'm diving deeper into:
+- Systems programming (Rust, OS concepts)
+- Functional programming
+- AI & machine learning
+- Network infrastructure
+- Databases
+
+### 🤝 Let’s Connect
+If you're into open-source, lightweight tools, or just love talking about Emacs and Linux, feel free to connect or explore my projects!
+
+---
+
+> "If you’re going to do it, make it lean, clean, and human-readable."
