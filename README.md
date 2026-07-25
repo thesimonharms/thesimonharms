@@ -1,44 +1,43 @@
 # Simon Harms
 
-Full-stack developer and freelancer specializing in backend systems, Laravel, AI integration, and web development. I build things that work well and last.
+Full-stack developer and backend engineer specializing in AI integrations, local inference workflows, Model Context Protocol (MCP), and TypeScript systems. I build clean, high-performance applications and resilient software architectures.
 
 ---
 
 ## What I Do
 
-**Languages:** PHP · Python · JavaScript / TypeScript · Rust
-**Stack:** Laravel · Livewire · Alpine.js · Node.js · REST APIs  
-**Areas:** Full-stack development · Backend architecture · AI integration · AI Integration · Web design
+**Languages:** TypeScript / JavaScript · Python · Go · Rust · PHP · C / C#
+**Stack:** Node.js · REST APIs · MCP Servers · Laravel · Livewire / Alpine.js
+**Areas:** Full-stack Development · AI Engineering (Inference, Fine-Tuning & Training) · MCP Integration · Systems Architecture
 
-I'm a self-directed developer with formal CS/IT training, currently freelancing on [Upwork](https://www.upwork.com/freelancers/~01a95321c00e692b43?mp_source=share) and [Fiverr](https://www.fiverr.com/s/5rjyP6E). My work spans from greenfield web apps to integrating LLMs into existing products.
+I'm an independent software engineer with formal CS/IT credentials, freelancing on [Upwork](https://www.upwork.com/freelancers/~01a95321c00e692b43?mp_source=share) and [Fiverr](https://www.fiverr.com/s/5rjyP6E). My work ranges from building greenfield TypeScript systems to developing custom MCP tools and integrating local AI/LLM infrastructure into complex applications.
 
 ---
 
 ## Selected Projects
 
-### [taucetiiv.net](https://taucetiiv.net)
-A fan site and community hub for the Marathon universe (Bungie). Built with Laravel + Livewire + Alpine.js, hosted on Laravel Cloud, featuring ephemeral clip sharing with Discord OAuth.
-
 ### [aksara-ts](https://github.com/thesimonharms/aksara-ts)
-A TypeScript library for Javanese script (Aksara Jawa) transliteration. Handles the complexity of a traditional abugida writing system in a modern, typed package. Designed for AI/LLM usage and OCR in the future. Uses AI to predict spaces in nonsegmented text.
+A TypeScript library for Javanese script (Aksara Jawa) transliteration. Handles the structural complexity of a traditional abugida writing system in a modern, typed package. Features AI-driven space prediction for non-segmented text and acts as a foundation for OCR and cultural language preservation models.
+
+### [PondokNusa](https://github.com/pondoknusa/pondoknusa)
+TypeScript-native full-stack web framework (service container, routing, middleware, queues, auth, post-quantum crypto, and a first-class CLI) on standard Web APIs that is fast and fun.
 
 ---
 
-## Currently
+## Focus & Capabilities
 
-- Finishing a CS/IT degree (C, Linux, Data Science)
-- Freelancing in web development, backend, and AI integration
-- Building out [taucetiiv.net](https://taucetiiv.net) as an ongoing project
-- Working on Javanese preservation and digitization.
-- Based in the US.
+- **AI Pipelines & MCP:** Building Model Context Protocol servers, agentic tools, and local/remote inference integrations.
+- **AI Training & Fine-Tuning:** Developing specialized dataset processing and custom model workflows.
+- **Full-Stack & Backend Systems:** Architecting scalable APIs and TypeScript/Node.js backends alongside established stacks like Laravel.
+- **Cultural & Language Tech:** Digitization and NLP tools for non-Latin scripts.
 
 ---
 
 ## Get in Touch
 
-If you have a project that needs solid backend work, Laravel expertise, or AI integration — I'm available for freelance engagements.
+If you need custom backend architecture, MCP server development, or AI integration for your platform, I'm available for freelance projects.
 
 - [Upwork](https://www.upwork.com/freelancers/~01a95321c00e692b43?mp_source=share)
 - [Fiverr](https://www.fiverr.com/s/5rjyP6E)
-- [X](https://x.com/TheSimonHarms)
-- simon@simonharms.com
+- [X / Twitter](https://x.com/TheSimonHarms)
+- [Email](mailto:simon@simonharms.com)
